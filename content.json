@@ -1,0 +1,10 @@
+{
+    "name": "SALT",
+    "symbol": "SALT",
+    "decimals": "9",
+    "description": "Tax token on TON blockchain with custom address",
+    "image": "https://raw.githubusercontent.com/salt3d-dev/salt/refs/heads/main/salt.jpg",
+    "social_links": [
+        "https://t.me/salt_tok3n"
+    ]
+}
